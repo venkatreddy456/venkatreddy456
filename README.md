@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AZURE Cloud**
 
-- 📝 I regularly write articles on [https://medium.com/@venkatareddy50005](https://medium.com/@venkatareddy50005)
+- 📝 I regularly write articles on [https://medium.com/@Venkata-Reddy-DevOps](https://medium.com/@Venkata-Reddy-DevOps)
 
 - 💬 Ask me about **AWS cloud, Linux, python, CI/CD , Docker, Kubernetes , Terraform , Ansible, Scripting, Jenkins, Git, Grafana ,Prometheus, ELK**
 
