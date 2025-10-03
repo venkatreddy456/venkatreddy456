@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Venkata Reddy Nadikattu</h1>
 <h3 align="center">Enthusiastic DevOps Engineer with experience in the IT industry, specializing 3+ years in DevOps/Cloud domain.</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7V8DClkG4bEpCQLxGBlTQOGcFZ5LC5-TLNw&s">
+<img align="right" alt="boy" width="400" src="https://raw.githubusercontent.com/venkatreddy456/venkatreddy456/main/dev.png">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatreddy456&label=Profile%20views&color=0e75b6&style=flat" alt="venkatreddy456" /> </p>
 
