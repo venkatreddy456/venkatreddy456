@@ -1,29 +1,93 @@
 
-<h1 align="center">Hi 👋, I'm Venkata Reddy Nadikattu</h1>
-<h3 align="center">Enthusiastic DevOps Engineer with experience in the IT industry, specializing 3+ years in DevOps/Cloud domain.</h3>
-<img align="right" alt="boy" width="400" src="https://raw.githubusercontent.com/venkatreddy456/venkatreddy456/main/dev.png">
+<h1 align="center">👋 Hi, I'm Venkata Reddy Nadikattu</h1>
+
+<h3 align="center">
+Senior DevOps Engineer • AWS & Azure • Cloud Automation
+</h3>
+
+<p align="center">
+<a href="linkedin.com/in/venkata-reddy-nadikattu" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:venkataws23@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatreddy456&label=Profile%20views&color=0e75b6&style=flat" alt="venkatreddy456" /> </p>
+---
 
+## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **AZURE Cloud**
+I’m **Venkata Reddy Nadikattu**, a **Senior DevOps Engineer with 3+ years of hands-on experience** working across **AWS and Azure** environments.
 
-- 📝 I regularly write articles on [https://medium.com/@Venkata-Reddy-DevOps](https://medium.com/@Venkata-Reddy-DevOps)
+I enjoy building **reliable, scalable, and automated cloud platforms**, solving infrastructure problems, and reducing operational overhead through **Infrastructure as Code, CI/CD automation, and Kubernetes**.
 
-- 💬 Ask me about **AWS cloud, Linux, python, CI/CD , Docker, Kubernetes , Terraform , Ansible, Scripting, Jenkins, Git, Grafana ,Prometheus, ELK**
+Most of my work focuses on helping teams **deploy faster, operate reliably, and scale confidently** using modern DevOps and SRE practices.
 
-- 📫 How to reach me **venkatnadikattu123@gmail.com**
+---
 
-- ⚡ **I am fun loving.**
+## 🎯 What I’m Currently Working On
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-reddy-nadikattu/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]( https://medium.com/@Venkata-Reddy-DevOps)
+- ☁️ Designing and automating infrastructure on **AWS & Azure**
+- 🚀 Building and improving **CI/CD pipelines** for multiple environments
+- 📦 Running production workloads on **Kubernetes (EKS/AKS)**
+- 🏗 Writing reusable **Terraform modules**
+- 📈 Improving observability using **Prometheus, Grafana & ELK**
 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![ANSIBLE](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![ARGOCD](https://img.shields.io/badge/argo-EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white&color=%23EF7B4D) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![GRAFANA](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white&color=%23F46800) ![KIBANA](https://img.shields.io/badge/kibana-005571.svg?style=for-the-badge&logo=kibana&logoColor=white&color=%23005571) ![PROMETHEUS](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white&color=%23E6522C) ![SONARQUBE](https://img.shields.io/badge/sonarqube-4E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white&color=%234E9BCD) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=venkatreddy456&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=venkatreddy456&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatreddy456&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+## 🧰 Tech Stack
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![Terraform](https://img.shields.io/badge/Terraform-5C4EE5?style=for-the-badge&logo=terraform)
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible)
+
+### 🔧 CI/CD & Automation
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo)
+
+### 📦 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm)
+
+### 💻 Scripting & Version Control
+![Shell](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+### 📊 Monitoring & Logging
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
+![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack)
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+<img src="https://github.com/keerti-dev/snake/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 📫 Let’s Connect
+
+- 📍 **Location:** Hyderabad, India  
+- ✉️ **Email:** venkataws23@gmail.com  
+- 🔗 **LinkedIn:** linkedin.com/in/venkata-reddy-nadikattu  
+- 🧠 **Blog:**  https://medium.com/@Venkata-Reddy-DevOps 
+  
+
+---
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=100"/>
+</p>
