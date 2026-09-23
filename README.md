@@ -30,9 +30,9 @@ Most of my work focuses on helping teams **deploy faster, operate reliably, and 
 
 ## 🎯 What I’m Currently Working On
 
-- ☁️ Designing and automating infrastructure on **AWS & Azure**
+- ☁️ Designing and automating infrastructure on **AWS & GCP**
 - 🚀 Building and improving **CI/CD pipelines** for multiple environments
-- 📦 Running production workloads on **Kubernetes (EKS/AKS)**
+- 📦 Running production workloads on **Kubernetes (EKS/GKS)**
 - 🏗 Writing reusable **Terraform modules**
 - 📈 Improving observability using **Prometheus, Grafana & ELK**
 
