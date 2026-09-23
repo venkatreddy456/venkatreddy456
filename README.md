@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I'm Venkata Reddy Nadikattu</h1>
 
 <h3 align="center">
-Senior DevOps Engineer • AWS & Azure • Cloud Automation
+Senior DevOps Engineer • AWS & GCP • Cloud Automation
 </h3>
 
 <p align="center">
